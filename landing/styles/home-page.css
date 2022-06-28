@@ -9,7 +9,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background: url("/img/mainimg.jfif") no-repeat;
+    background: url("../assets/home-page-bg.svg") no-repeat;
     background-size: cover;
     -webkit-touch-callout: none;
     -webkit-user-select: none;
@@ -117,7 +117,7 @@
     display: flex;
     align-items: flex-end;
     margin-right: 50px;
-    background: url("/img/kiev.jfif") no-repeat;
+    background: url("../assets/cities/kiev.jfif") no-repeat;
     background-size: cover;
 }
 .city-banner-2 {
@@ -126,7 +126,7 @@
     display: flex;
     align-items: flex-end;
     margin-right: 50px;
-    background: url("/img/odessa.jfif") no-repeat;
+    background: url("../assets/cities/.jfif") no-repeat;
     background-size: cover;
 }
 .city-banner-3 {
@@ -135,7 +135,7 @@
     display: flex;
     align-items: flex-end;
     margin-right: 50px;
-    background: url("/img/kharkiv.png") no-repeat;
+    background: url("../assets/cities/kharkiv.png") no-repeat;
     background-size: cover;
 }
 .city-banner-4 {
@@ -144,7 +144,7 @@
     display: flex;
     align-items: flex-end;
     margin-right: 50px;
-    background: url("/img/lviv.jfif") no-repeat;
+    background: url("../assets/cities/lviv.jfif") no-repeat;
     background-size: cover;
 }
 .city-banner-5 {
@@ -153,7 +153,7 @@
     display: flex;
     align-items: flex-end;
     margin-right: 50px;
-    background: url("/img/karpati.jfif") no-repeat;
+    background: url("../assets/cities/karpati.jfif") no-repeat;
     background-size: cover;
 }
 
@@ -194,7 +194,7 @@
     justify-content: center;
     align-items: center;
     color: white;
-    background: url("/img/aboutus.jfif") no-repeat;
+    background: url("../assets/about.svg") no-repeat;
     background-size: cover;
 }
 
