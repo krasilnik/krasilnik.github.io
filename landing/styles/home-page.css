@@ -9,7 +9,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background: url("../assets/home-page-bg.svg") no-repeat;
+    background: url("/img/mainimg.jfif") no-repeat;
     background-size: cover;
     -webkit-touch-callout: none;
     -webkit-user-select: none;
@@ -111,17 +111,73 @@
     margin-bottom: 50px;
 }
 
-.city-banner {
+.city-banner-1 {
     width: 380px;
     height: 286px;
     display: flex;
     align-items: flex-end;
     margin-right: 50px;
-    background: url("../assets/cities/kyiv.svg") no-repeat;
+    background: url("/img/kiev.jfif") no-repeat;
+    background-size: cover;
+}
+.city-banner-2 {
+    width: 380px;
+    height: 286px;
+    display: flex;
+    align-items: flex-end;
+    margin-right: 50px;
+    background: url("/img/odessa.jfif") no-repeat;
+    background-size: cover;
+}
+.city-banner-3 {
+    width: 380px;
+    height: 286px;
+    display: flex;
+    align-items: flex-end;
+    margin-right: 50px;
+    background: url("/img/kharkiv.png") no-repeat;
+    background-size: cover;
+}
+.city-banner-4 {
+    width: 380px;
+    height: 286px;
+    display: flex;
+    align-items: flex-end;
+    margin-right: 50px;
+    background: url("/img/lviv.jfif") no-repeat;
+    background-size: cover;
+}
+.city-banner-5 {
+    width: 380px;
+    height: 286px;
+    display: flex;
+    align-items: flex-end;
+    margin-right: 50px;
+    background: url("/img/karpati.jfif") no-repeat;
     background-size: cover;
 }
 
-.city-banner > p {
+.city-banner-1 > p {
+    padding: 10px;
+    color: white;
+    font-size: 18px;
+}
+.city-banner-2 > p {
+    padding: 10px;
+    color: white;
+    font-size: 18px;
+}
+.city-banner-3 > p {
+    padding: 10px;
+    color: white;
+    font-size: 18px;
+}
+.city-banner-4 > p {
+    padding: 10px;
+    color: white;
+    font-size: 18px;
+}
+.city-banner-5 > p {
     padding: 10px;
     color: white;
     font-size: 18px;
@@ -138,7 +194,7 @@
     justify-content: center;
     align-items: center;
     color: white;
-    background: url("../assets/about.svg") no-repeat;
+    background: url("/img/aboutus.jfif") no-repeat;
     background-size: cover;
 }
 
@@ -275,3 +331,4 @@
     }
 
 }
+
