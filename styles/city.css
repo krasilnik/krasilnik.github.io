@@ -137,7 +137,7 @@
     float: left;
     margin-right: 10px;
     margin-top: 25px;
-    background: url("/img/rest-1.jfif") no-repeat;
+    background: url("../assets/rest-1.jfif") no-repeat;
     background-size: cover;
     padding: 16px;
 }
@@ -147,7 +147,7 @@
     float: left;
     margin-right: 10px;
     margin-top: 25px;
-    background: url("/img/rest-2.jfif") no-repeat;
+    background: url("../assets/rest-2.jfif") no-repeat;
     background-size: cover;
     padding: 16px;
 }
@@ -157,7 +157,7 @@
     float: left;
     margin-right: 10px;
     margin-top: 25px;
-    background: url("/img/rest-3.jfif") no-repeat;
+    background: url("../assets/rest-3.jfif") no-repeat;
     background-size: cover;
     padding: 16px;
 }
@@ -167,7 +167,7 @@
     float: left;
     margin-right: 10px;
     margin-top: 25px;
-    background: url("/img/rest-4.jfif") no-repeat;
+    background: url("../assets/rest-4.jfif") no-repeat;
     background-size: cover;
     padding: 16px;
 }
@@ -177,7 +177,7 @@
     float: left;
     margin-right: 10px;
     margin-top: 25px;
-    background: url("/img/rest-5.jfif") no-repeat;
+    background: url("../assets/rest-5.jfif") no-repeat;
     background-size: cover;
     padding: 16px;
 }
@@ -187,7 +187,7 @@
     float: left;
     margin-right: 10px;
     margin-top: 25px;
-    background: url("/img/rest-6.jfif") no-repeat;
+    background: url("../assets/rest-6.jfif") no-repeat;
     background-size: cover;
     padding: 16px;
 }
@@ -197,7 +197,7 @@
     float: left;
     margin-right: 10px;
     margin-top: 25px;
-    background: url("/img/rest-7.fif") no-repeat;
+    background: url("../assets/rest-7.fif") no-repeat;
     background-size: cover;
     padding: 16px;
 }
@@ -207,7 +207,7 @@
     float: left;
     margin-right: 10px;
     margin-top: 25px;
-    background: url("/img/rest-8.jfif") no-repeat;
+    background: url("../assets/rest-8.jfif") no-repeat;
     background-size: cover;
     padding: 16px;
 }
@@ -217,7 +217,7 @@
     float: left;
     margin-right: 10px;
     margin-top: 25px;
-    background: url("/img/rest-9.jfif") no-repeat;
+    background: url("../assets/rest-9.jfif") no-repeat;
     background-size: cover;
     padding: 16px;
 }
@@ -227,7 +227,7 @@
     float: left;
     margin-right: 10px;
     margin-top: 25px;
-    background: url("/img/rest-10.jfif") no-repeat;
+    background: url("../assets/rest-10.jfif") no-repeat;
     background-size: cover;
     padding: 16px;
 }
@@ -237,7 +237,7 @@
     float: left;
     margin-right: 10px;
     margin-top: 25px;
-    background: url("/img/rest-11.jfif") no-repeat;
+    background: url("../assets/rest-11.jfif") no-repeat;
     background-size: cover;
     padding: 16px;
 }
@@ -254,7 +254,7 @@
     width: 40%;
     height: 340px;
     float: left;
-    background: url("/img/kyiv.svg") no-repeat;
+    background: url("../assets/kyiv.svg") no-repeat;
     background-size: cover;
     padding: 16px;
 }
